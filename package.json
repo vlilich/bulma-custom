@@ -5,14 +5,14 @@
   "description": "A simple NPM builder for bulma.css with a custom class namespace",
   "dependencies": {},
   "devDependencies": {
-    "autoprefixer": "^9.7.6",
-    "bulma": "^0.9.0",
+    "autoprefixer": "^9.8.6",
+    "bulma": "^0.9.3",
     "bulma-checkradio": "^1.1.1",
     "clean-css-cli": "^4.3.0",
     "node-sass": "^4.13.1",
-    "postcss": "^7.0.30",
-    "postcss-cli": "^7.1.1",
-    "postcss-prefixer": "^2.1.2",
+    "postcss": "^7.0.36",
+    "postcss-cli": "^7.1.2",
+    "postcss-prefixer": "^2.1.3",
     "rimraf": "^3.0.2"
   },
   "scripts": {
